@@ -241,8 +241,8 @@ class HomeScreen extends StatelessWidget {
           print(CounterTeamAIncrementStat);
         } else if (stat is CounterTeamBIncrementStat) {
           print(CounterTeamBIncrementStat);
-        } else if (stat is CounterTeamResetInitialStat) {
-          print(CounterTeamResetInitialStat);
+        } else if (stat is CounterTeamResetStat) {
+          print(CounterTeamResetStat);
         }
       },
     );

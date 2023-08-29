@@ -6,4 +6,4 @@ class CounterTeamAIncrementStat extends CounterStates {}
 
 class CounterTeamBIncrementStat extends CounterStates {}
 
-class CounterTeamResetInitialStat extends CounterStates {}
+class CounterTeamResetStat extends CounterStates {}
