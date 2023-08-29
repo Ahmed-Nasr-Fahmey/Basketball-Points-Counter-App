@@ -1,5 +1,4 @@
 <h1 align="center">Basketball Points Counter App</h1>
-![image](https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/1a63fa54-629f-4eb7-908a-f6f9e79eaebe)
 The Basketball Points Counter app is a user-friendly mobile application developed using Flutter that allows users to keep track of scores during a basketball game. Whether you're playing a friendly match with friends or keeping score for a competitive game, this app simplifies the process of recording and monitoring points.
 
 ## Features
@@ -53,3 +52,15 @@ To quickly start using the Basketball Points Counter app, you can follow these s
 
 6. **Run the App:** Launch the app on a connected device or emulator using the following command.
    - flutter run
+
+
+## Conclusion
+
+The Basketball Points Counter app aims to simplify the process of tracking basketball game scores, making it a seamless and intuitive experience. By utilizing the Cubit technology for state management, the app contributes to streamlining score management and sharing these moments with your teams and friends.
+
+I hope this application proves to be useful and enjoyable for you. I welcome your contributions and feedback to enhance this project further. Keep enjoying the game of basketball!
+
+## Contact Me
+
+For any inquiries or suggestions, please feel free to reach out to me via email at [ahmed.nasr.fahmey@gmail.com](mailto:ahmed.nasr.fahmey@gmail.com).
+
