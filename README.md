@@ -69,5 +69,5 @@ I hope this application proves to be useful and enjoyable for you. I welcome you
 For any inquiries or suggestions, please feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-Fahmey/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasr.fahmey@gmail.com)
 
-<h1 align="center">Thank you for taking the time to explore my Basketball Points Counter app.</h1>
+<h3 align="center">Thank you for taking the time to explore my Basketball Points Counter app.</h3>
 
