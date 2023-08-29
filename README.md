@@ -47,7 +47,7 @@ To quickly start using the Basketball Points Counter app, you can follow these s
    - Install the "Flutter" and "Dart" extensions if you haven't already.
    - Open the extracted folder in Visual Studio Code.
      
-5. **Install Dependencies:** Run the following command in project terminal to install the required dependencies.
+5. **Install Dependencies:** Run the following command in the root of project (in terminal) to install the required dependencies.
    - flutter pub get
 
 6. **Run the App:** Launch the app on a connected device or emulator using the following command.
