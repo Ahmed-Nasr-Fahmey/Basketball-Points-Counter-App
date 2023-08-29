@@ -22,7 +22,7 @@ The Basketball Points Counter app utilizes the `cubit` package for efficient sta
 
 
 
-## Screenshots
+## Screenshot
 
 <div align="center">
   <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/7bb25f91-5aec-4f4e-bcc6-594679856705" alt="Basketball Icon">
