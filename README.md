@@ -9,6 +9,13 @@ The Basketball Points Counter app is a user-friendly mobile application develope
 
 - **Score Reset:** Reset scores to zero instantly to begin a new match without any hassle.
 
+## Technologies Used
+
+The Basketball Points Counter app was developed using the following technologies and tools:
+
+- [Flutter](https://flutter.dev): A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+- [Dart](https://dart.dev): The programming language optimized for building mobile, desktop, server, and web applications.
 
 ## State Management with Cubit
 
@@ -19,7 +26,6 @@ The Basketball Points Counter app utilizes the `cubit` package for efficient sta
 - **Simplicity:** Cubit provides a simple and understandable way to manage state without excessive complexity.
 - **Predictable State Changes:** With Cubit, state changes are controlled, making it easier to debug and reason about the app's behavior.
 - **Separation of Concerns:** Cubit encourages a clear separation between UI components and business logic.
-
 
 
 ## Screenshot
