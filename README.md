@@ -1,2 +1,55 @@
-# Basketball Points Counter App
- The Basketball Points Counter app is a user-friendly mobile application developed using Flutter that allows users to keep track of scores during a basketball game.
+<h1 align="center">Basketball Points Counter App</h1>
+![image](https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/1a63fa54-629f-4eb7-908a-f6f9e79eaebe)
+The Basketball Points Counter app is a user-friendly mobile application developed using Flutter that allows users to keep track of scores during a basketball game. Whether you're playing a friendly match with friends or keeping score for a competitive game, this app simplifies the process of recording and monitoring points.
+
+## Features
+
+- **Intuitive Interface:** A clean and straightforward interface designed for ease of use during fast-paced games.
+
+- **3-Pointers:** Assign 1-point, 2-points and 3-points scores, for comprehensive scoring. 
+
+- **Score Reset:** Reset scores to zero instantly to begin a new match without any hassle.
+
+
+## State Management with Cubit
+
+The Basketball Points Counter app utilizes the `cubit` package for efficient state management. Cubit is a lightweight and easy-to-use state management solution that helps manage the app's state in a predictable way.
+
+### Why Cubit?
+
+- **Simplicity:** Cubit provides a simple and understandable way to manage state without excessive complexity.
+- **Predictable State Changes:** With Cubit, state changes are controlled, making it easier to debug and reason about the app's behavior.
+- **Separation of Concerns:** Cubit encourages a clear separation between UI components and business logic.
+
+
+
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/7bb25f91-5aec-4f4e-bcc6-594679856705" alt="Basketball Icon">
+</div>
+
+
+## Getting Started
+
+To quickly start using the Basketball Points Counter app, you can follow these steps to clone the repository from a downloaded zip folder and open it in Android Studio or Visual Studio Code:
+
+1. **Download the Zip Folder:** Click on the "Code" button on this repository's GitHub page and select "Download ZIP". This will download the entire repository as a zip file to your local machine.
+
+2. **Extract the Zip Folder:** Locate the downloaded zip file on your computer and extract its contents to a directory of your choice.
+
+3. **Open in Android Studio:**
+   - Launch Android Studio.
+   - From the welcome screen, select "Open an existing Android Studio project" and navigate to the extracted folder.
+   - Android Studio will automatically recognize the project and set it up for you.
+
+4. **Open in Visual Studio Code:**
+   - Launch Visual Studio Code.
+   - Install the "Flutter" and "Dart" extensions if you haven't already.
+   - Open the extracted folder in Visual Studio Code.
+     
+5. **Install Dependencies:** Run the following command in project terminal to install the required dependencies.
+   - flutter pub get
+
+6. **Run the App:** Launch the app on a connected device or emulator using the following command.
+   - flutter run
