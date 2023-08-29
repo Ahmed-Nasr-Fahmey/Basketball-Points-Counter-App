@@ -13,10 +13,8 @@ The Basketball Points Counter app is a user-friendly mobile application develope
 
 The Basketball Points Counter app was developed using the following technologies and tools:
 
-- [Flutter](https://flutter.dev): A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-
-- [Dart](https://dart.dev): The programming language optimized for building mobile, desktop, server, and web applications.
-
+- ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ## State Management with Cubit
 
 The Basketball Points Counter app utilizes the `cubit` package for efficient state management. Cubit is a lightweight and easy-to-use state management solution that helps manage the app's state in a predictable way.
